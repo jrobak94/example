@@ -2,3 +2,6 @@
 
 this is an example
 and an update
+-line 1
+-line 2
+-line 3
