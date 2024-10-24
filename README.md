@@ -6,3 +6,5 @@ and an update
 -line 2
 -line 3
 Now I have a separate branch
+
+- line 6
